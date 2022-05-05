@@ -1,0 +1,46 @@
+
+   "name":"harriet.",
+   "logo":"https://github.com/cherubimmarsh/totality./raw/main/totality. (icon).png",
+   "author":"CherubimMarsh",
+   "description":"when even the dark won’t eclipse the sun, you need totality.",
+   "styles":[
+      {
+         "header":"background-color: #000000!important;color:FFFFFF!important",
+         "label":"background-color: #000000!important;color:FFFFFF!important",
+         "alert":"background-color: #000000!important;color:FFFFFF!important",
+         "containerBackground":"background-color: #000000;color: #FFFFFF",
+         "cell":"background-color: #000000;color: #FFFFFF",
+         "cellChevron":"background-color: #000000;color: #FFFFFF",
+         "toolbar":"background-color: #000000;color: #FFFFFF",
+         "gradient":"",
+         "emulatorBackground":"background-color: #000000;color: #FFFFFF;",
+         "emulatorScreen":"",
+         "triggerL":"background-color: #000000!important;color:FFFFFF;",
+         "triggerR":"background-color: #000000!important;color:FFFFFF;",
+         "center":"background-color: #1a1a1a!important;color:FFFFFF!important",
+         "right":"background-color: #1a1a1a!important;color:FFFFFF!important",
+         "left":"background-color: #1a1a1a!important;color:FFFFFF!important",
+         "up":"background-color: #1a1a1a!important;color:FFFFFF!important",
+         "down":"background-color: #1a1a1a!important;color:FFFFFF!important",
+         "aBtn":"background-color: #000000;color:FFFFFF;",
+         "bBtn":"background-color: #000000;color:FFFFFF;",
+         "xBtn":"background-color: #000000;color:FFFFFF;",
+         "yBtn":"background-color: #000000;color:FFFFFF;",
+         "startBtn":"background-color: #000000;color:FFFFFF;",
+         "select":"background-color: #000000;color:FFFFFF;",
+         "iOSicon":"color:#FFFFFF;opacity:1",
+         "MDicon":"color:#FFFFFF;opacity:1",
+         "fab":"color:white;background:#e0e0e0!important",
+         "icon":"color:#000000!important",
+         "tint":"color:#FFFFFF;",
+         "button":"background:#FFFFFF!important",
+         "custom":[
+            {
+               "eclipse":"",
+               "igba":""
+            }
+         ]
+         
+      }
+   ]
+}
